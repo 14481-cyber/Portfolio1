@@ -190,9 +190,7 @@ nav a:hover{
     color:#bbb;
 }
 
-/* =====================
-      COMMON TITLE
-===================== */
+
 
 .title{
     text-align:center;
@@ -210,9 +208,7 @@ nav a:hover{
     margin:15px auto;
     border-radius:20px;
 }
-/* =====================
-      ABOUT
-===================== */
+
 
 .about{
     padding:100px 10%;
@@ -343,9 +339,6 @@ nav a:hover{
 .canva{width:90%;}
 .git{width:75%;}
 
-/* =====================
-      PROJECTS
-===================== */
 
 .projects{
     padding:100px 10%;
@@ -415,9 +408,7 @@ nav a:hover{
     color:var(--primary);
 }
 
-/* =====================
-      FOOTER
-===================== */
+
 
 footer{
     margin-top:60px;
@@ -431,9 +422,7 @@ footer p{
     color:#aaa;
 }
 
-/* =====================
-      ANIMATION
-===================== */
+
 
 @keyframes slideLeft{
     from{
@@ -463,9 +452,6 @@ footer p{
     }
 }
 
-/* =====================
-      RESPONSIVE
-===================== */
 
 @media(max-width:768px){
 
