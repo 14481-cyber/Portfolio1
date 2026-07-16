@@ -567,3 +567,20 @@ footer p{
     }
 
 }
+/* =======================
+   CERTIFICATES
+======================= */
+
+.project-card img{
+    width:100%;
+    border-radius:15px;
+    transition:.4s;
+}
+
+.project-card:hover img{
+    transform:scale(1.05);
+}
+
+.project-card{
+    overflow:hidden;
+}
